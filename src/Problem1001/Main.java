@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Elton
+ * @author Mateus Gabi
  */
 public class Main {
      public static void main(String[] args) throws IOException {
